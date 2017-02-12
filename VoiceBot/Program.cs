@@ -23,7 +23,7 @@ namespace ConsoleApplication1
         private IAudioClient audio;
 
 
-        private static readonly string AppKey = "MTc1OTQ0NTg0NTE2MzM3NjY1.CgY0qg.Y2VMmtQpGCR0DrnYlLvFQLqSDUQ";
+        private static readonly string AppKey = "INSERT - YOUR APP KEY";
         static void Main(string[] args) => new Program().Start(args);
         public void Start(string[] args)
         {
@@ -100,7 +100,7 @@ namespace ConsoleApplication1
             };
             client.ExecuteAndWait(async () =>
             {
-                await client.Connect("MjcxMzgwOTYxMzY5Nzg0MzIx.C2Fm9g.k8qMJwKkjqaqSrjI - t7hG1P9WwA", TokenType.Bot);
+                await client.Connect(" INSERT CLIENT CODE", TokenType.Bot);
                 await client.WaitForServer().ConfigureAwait(false);
                 //client.AddModule<Modules.Links>();  // Use for later tutorials
             });

@@ -21,3 +21,6 @@ C:\Users\leo\Documents\VoiceBot\VoiceBot\bin\Debug\RestSharp.xml
 C:\Users\leo\Documents\VoiceBot\VoiceBot\obj\Debug\VoiceBot.csprojResolveAssemblyReference.cache
 C:\Users\leo\Documents\VoiceBot\VoiceBot\obj\Debug\VoiceBot.exe
 C:\Users\leo\Documents\VoiceBot\VoiceBot\obj\Debug\VoiceBot.pdb
+C:\Users\leo\Documents\GitHub\VoiceBot\VoiceBot\bin\Debug\VoiceBot.exe.config
+C:\Users\leo\Documents\GitHub\VoiceBot\VoiceBot\obj\Debug\VoiceBot.exe
+C:\Users\leo\Documents\GitHub\VoiceBot\VoiceBot\obj\Debug\VoiceBot.pdb
